@@ -10,7 +10,7 @@
 |:---:|:---:|:---:|
 |권효승|[hyoogu](https://github.com/hyoogu, "Github Link")|[vel_ogu](https://velog.io/@idhyo0o, "Blog Link")|
 |박종아|[jong-ah](https://github.com/jong-ah, "Github Link")|[jongah tech blog](https://medium.com/jongah-tech-blog, "Blog Link")|
-|이지연|||
+|이지연|[ezyeon07](https://github.com/ezyeon07, "Github Link")||
 |전지호|||
 
 <br/>
